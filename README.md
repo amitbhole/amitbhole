@@ -1,0 +1,16 @@
+### Hi there 👋
+
+<!--
+**amitbhole/amitbhole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m trying to build a software for practicing mcq for exams
+- 🌱 I’m currently learning many things
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: amitbhole@gmail.com
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
